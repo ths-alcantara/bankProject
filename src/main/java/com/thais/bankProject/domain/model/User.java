@@ -1,4 +1,4 @@
-package com.thais.bankProject.model;
+package com.thais.bankProject.domain.model;
 
 import jakarta.persistence.*;
 
